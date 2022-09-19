@@ -3,5 +3,5 @@
 ## · Phyton
 - ¿Qué es Phyton?
 
-Python, es un lenguaje de programación de propósito general, que es otra forma de decir que puede ser usado para casi todo. Se trata de un lenguaje interpretado, el código escrito no se traduce realmente a un formato legible por el ordenador en tiempo de ejecución.
+Python, es un lenguaje de programación de propósito general, que es otra forma de decir que puede ser usado para casi todo. Se trata de un lenguaje interpretado, el código escrito no se traduce realmente a un formato legible.
 
