@@ -10,3 +10,5 @@ Python, es un lenguaje de programación de propósito general, que es otra forma
 - ¿Cuando y Quien creó Python?
 
 Python fue creado por Guido van Rossum, un programador holandés a finales de los 80 y principio de los 90 cuando se encontraba trabajando en el sistema operativo Amoeba.
+
+![Creador_Python](https://github.com/XaviiConde/SMX2-M8UF1A1-HistoriaWeb-1994-Phyton-XaviConde/blob/main/Creador_Python.png "Creador_Python") 
