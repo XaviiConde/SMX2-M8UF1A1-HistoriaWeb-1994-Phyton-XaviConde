@@ -2,7 +2,8 @@
 *Hecho por Xavier Conde*
 
 <img src=https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif alt="amf" width="600"/>
-
+<br />
+<br />
 ## **Índice**
 
 1.- ¿Qué es Phyton?
