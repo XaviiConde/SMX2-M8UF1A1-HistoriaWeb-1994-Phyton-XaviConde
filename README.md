@@ -10,7 +10,8 @@
 1.- ¿Qué es Phyton?
 
 2.- ¿Cuando y Quien creó Python?
-
+<br />
+<br />
 
 ## · ¿Qué es Python?
 
