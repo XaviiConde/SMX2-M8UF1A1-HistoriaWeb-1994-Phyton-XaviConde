@@ -4,7 +4,7 @@
 <img src=https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif alt="amf" width="600"/>
 <br />
 <br />
-## **Índice**
+## Índice
 
 1.- ¿Qué es Phyton?
 
