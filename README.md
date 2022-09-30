@@ -1,6 +1,7 @@
 # Python
 *Hecho por Xavier Conde*
-![Python](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+
+<img src=https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif alt="amf" width="600"/>
 ## Índice
 
 1.- ¿Qué es Phyton?
