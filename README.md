@@ -1,7 +1,12 @@
-# SMX2-M8UF1A1-HistoriaWeb-1994-Phyton-XaviConde
+# Python
+*Hecho por Xavier Conde*
+![Python](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+## Índice
 
-## · Phyton
-**- ¿Qué es Phyton?**
+1.- ¿Qué es Phyton?
+2.- ¿Cuando y Quien creó Python?
+
+**- ¿Qué es Python?**
 
 Python, es un lenguaje de programación de propósito general, que es otra forma de decir que puede ser usado para casi todo. Se trata de un lenguaje interpretado, el código escrito no se traduce realmente a un formato legible.   
 <img src=https://github.com/XaviiConde/SMX2-M8UF1A1-HistoriaWeb-1994-Phyton-XaviConde/blob/main/Python.png alt="amf" width="300"/>
